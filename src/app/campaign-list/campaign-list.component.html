@@ -1,0 +1,12 @@
+<h2>Campaigns</h2>
+
+<div *ngFor="let campaign of campaigns">
+  <h3>
+    <a [title]="campaign.name + ' details'">
+      {{ campaign.name }}
+    </a>
+  </h3>
+
+  <p *ngIf="campaign.description">Description: {{ campaign.description }}</p>
+  <button (click)="share()">Share</button>
+</div>
