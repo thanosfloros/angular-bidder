@@ -1,1 +1,8 @@
-<p>campaign-details works!</p>
+<h2>Campaign Details</h2>
+
+<div *ngIf="campaign">
+  <h3>{{ campaign.name }}</h3>
+  <h4>{{ campaign.price | currency }}</h4>
+  <p>{{ campaign.description }}</p>
+  <button (click)="addToCart(campaign)">Buy</button>
+</div>

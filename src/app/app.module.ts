@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { TopBarComponent } from './top-bar/top-bar.component';
 import { CampaignListComponent } from './campaign-list/campaign-list.component';
 import { CampaignDetailsComponent } from './campaign-details/campaign-details.component';
+import { CartComponent } from './cart/cart.component';
 
 @NgModule({
   imports: [
@@ -15,6 +16,7 @@ import { CampaignDetailsComponent } from './campaign-details/campaign-details.co
     RouterModule.forRoot([
       { path: '', component: CampaignListComponent },
       { path: 'campaigns/:campaignId', component: CampaignDetailsComponent },
+      { path: 'cart', component: CartComponent },
     ]),
   ],
   declarations: [

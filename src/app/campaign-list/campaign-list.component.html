@@ -2,7 +2,10 @@
 
 <div *ngFor="let campaign of campaigns">
   <h3>
-    <a [title]="campaign.name + ' details'">
+    <a
+      [title]="campaign.name + ' details'"
+      [routerLink]="['/campaigns', campaign.id]"
+    >
       {{ campaign.name }}
     </a>
   </h3>
