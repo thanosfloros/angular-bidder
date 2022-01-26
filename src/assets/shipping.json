@@ -1,14 +1,86 @@
 [
   {
-    "type": "Overnight",
-    "price": 25.99
+    "id": "campaign347",
+    "price": 514,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
   },
   {
-    "type": "2-Day",
-    "price": 9.99
+    "id": "campaign94",
+    "price": 132,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
   },
   {
-    "type": "Postal",
-    "price": 2.99
+    "id": "campaign765",
+    "price": 571,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign10",
+    "price": 141,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign724",
+    "price": 664,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign342",
+    "price": 725,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign685",
+    "price": 733,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign314",
+    "price": 905,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign877",
+    "price": 366,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign758",
+    "price": 831,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "ALL COUNTRIES",
+    "targetedLocations": "ALL LOCATIONS"
+  },
+  {
+    "id": "campaign509",
+    "price": 257,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "GR",
+    "targetedLocations": "Athens"
+  },
+  {
+    "id": "campaign750",
+    "price": 391,
+    "adCreative": "<script type=\"text/javascript\"> /*<![CDATA[*/ supp_key = \"001b3058ceb2d3effb32e1e548bee49c\"; supp_time = new Date().getTime(); supp_channel = \"\"; supp_code_format = \"ads-sync.js\"; supp_click = \"\"; supp_custom_params = {}; /*]]>*/ </script> <script type='text/javascript' src='//n101adserv.com/js/show_ads_supp.js?pubId=10471'></script>",
+    "targetedCountries": "FR",
+    "targetedLocations": "Paris"
   }
 ]

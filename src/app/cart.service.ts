@@ -7,9 +7,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class CartService {
   items: Campaign[] = [];
-  constructor(
-    private http: HttpClient
-  ) {}
+  constructor(private http: HttpClient) {}
 
   addToCart(campaign: Campaign) {
     this.items.push(campaign);
@@ -25,6 +23,13 @@ export class CartService {
   }
 
   getShippingPrices() {
-    return this.http.get<{type: string, price: number}[]>('/assets/shipping.json');
+    return this.http.get<
+      {
+        id: string;
+        price: number;
+        targetedCountries: string;
+        targetedLocations: string;
+      }[]
+    >('/assets/shipping.json');
   }
 }
