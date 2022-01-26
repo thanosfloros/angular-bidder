@@ -8,15 +8,19 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 import { CampaignListComponent } from './campaign-list/campaign-list.component';
 import { CampaignDetailsComponent } from './campaign-details/campaign-details.component';
 import { CartComponent } from './cart/cart.component';
+import { HttpClientModule } from '@angular/common/http';
+import { ShippingComponent } from './shipping/shipping.component';
 
 @NgModule({
   imports: [
     BrowserModule,
+    HttpClientModule,
     ReactiveFormsModule,
     RouterModule.forRoot([
       { path: '', component: CampaignListComponent },
       { path: 'campaigns/:campaignId', component: CampaignDetailsComponent },
       { path: 'cart', component: CartComponent },
+      { path: 'shipping', component: ShippingComponent },
     ]),
   ],
   declarations: [
@@ -24,6 +28,8 @@ import { CartComponent } from './cart/cart.component';
     TopBarComponent,
     CampaignListComponent,
     CampaignDetailsComponent,
+    CartComponent,
+    ShippingComponent,
   ],
   bootstrap: [AppComponent],
 })
